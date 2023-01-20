@@ -477,6 +477,8 @@ $RECYCLE.BIN/
 *.lnk
 
 
+*/appsetting.json
+
 .vscode/
 .vs/
 .history/
