@@ -482,3 +482,10 @@ $RECYCLE.BIN/
 .vscode/
 .vs/
 .history/
+
+
+*.sln
+
+*.json
+
+
