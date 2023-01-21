@@ -8,7 +8,7 @@
 
 ## Versão do Projeto
 
-- v1.0.2, 2023-01-20, 19:33 | ApiCache ( a versão não possui Views)
+- v2.0.0, 2023-01-20, [19:33] | ApiCache (O resultado das consultadas são armazenadas em cache e apresentados na view Home/Index.cshtml).
 
 
 ## O que é Caching?

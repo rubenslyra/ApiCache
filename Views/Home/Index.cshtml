@@ -1,0 +1,30 @@
+﻿@model DateTime?
+
+@{
+    ViewData["Title"] = "Aplicando Caching com .NET e 'Caching.Memory'";
+    ViewData["Message"] = "A aplicação apresenta dois campos:"; 
+}
+
+<h1>@ViewData["Title"]</h1>
+<h2>@ViewData["Message"]</h2>
+
+<div>
+    <ul>
+        <li> 1 - Hora Atual (exato instante da consulta)</li>
+        <li> 2 - Hora de Armazenamento do Cache</li>
+    </ul>
+    
+</div>
+
+
+<div class="row">
+    <p>
+        <i>Hora Atual:</i>
+        <span>@DateTime.Now ToString();</span>
+    </p>
+    <p>
+        <i>Horário de Armazenamento (Caching): </i>
+        <span>@Model.Value.ToString();</span>
+    </p>
+    
+</div>
