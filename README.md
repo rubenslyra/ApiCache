@@ -192,5 +192,5 @@ To install additional .NET runtimes or SDKs:
 
 ## Referências
 
-[https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2](https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2)
-[https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2#distributed-memory-cache](https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2#distributed-memory-cache)
+- [https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2](https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2)
+- [https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2#distributed-memory-cache](https://docs.microsoft.com/pt-br/aspnet/core/performance/caching/memory?view=aspnetcore-2.2#distributed-memory-cache)
