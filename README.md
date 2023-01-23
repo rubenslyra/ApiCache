@@ -184,6 +184,9 @@ To install additional .NET runtimes or SDKs:
     https://aka.ms/dotnet-download
 ```
 
+## Imagem da Consulta
+
+![Conceitual_1](https://user-images.githubusercontent.com/37023108/214099930-92118e8e-82a4-4055-ab80-fae44af155f5.png)
 
 
 
