@@ -185,6 +185,10 @@ To install additional .NET runtimes or SDKs:
 ```
 
 
+## Imagem da consulta
+
+![Captura de tela 2023-01-20 193825](https://user-images.githubusercontent.com/37023108/214099749-3c0ed72d-cd5b-42ca-bfe5-8b140eeb7ad6.png)
+
 
 
 ## Referências
